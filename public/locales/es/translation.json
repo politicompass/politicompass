@@ -1,0 +1,54 @@
+{
+  "title": "El verdadero Compás político",
+  "next": "Siguiente",
+  "prev": "Anterior",
+  "lang": "Idioma",
+  "start": "Empezar",
+  "EN": "EN",
+  "ES": "ES",
+  "options": {
+    "a": "De acuerdo",
+    "b": "Totalmente de acuerdo",
+    "c": "En desacuerdo",
+    "d": "Totalmente en desacuerdo"
+  },
+  "optionsgag": {
+    "a": "De acuerdo",
+    "b": "Totalmente de acuerdo",
+    "c": "Absolutamente y totalmente de acuerdo",
+    "d": "No tengo palabras para describir lo de acuerdo que estoy"
+  },
+  "home": {
+    "title": "Antes de realizar este test",
+    "desc": "Ten en cuenta que esta no es una encuesta y que estas no son preguntas, son proposiciones. No pienses demasiado tus respuestas. Algunas preguntas son intencionalmente vagas. Su propósito es provocar reacciones en la mente, midiendo sentimientos y prejuicios en lugar de opiniones detalladas sobre políticas."
+  },
+  "question1": {
+    "title": "El sistema económico y político actual puede ser mejorado sustancialmente",
+    "desc": "Planteamiento"
+  },
+  "question2": {
+    "title": "El poder corrompe",
+    "desc": "Planteamiento"
+  },
+  "question3": {
+    "title": "La policía es la mejor forma de acabar con el crimen"
+  },
+  "question3a": {
+    "title": "¿Estás seguro de tu respuesta?"
+  },
+  "question3a1": {
+    "title": "¿Eres un robot?"
+  },
+  "question3a11": {
+    "title": "¡JA! lo sabía, maldita máquina sin alma",
+    "desc": "¿Desea continuar robot?"
+  },
+  "question4": {
+    "title": "Los Hobbits del señor de los anillos viven en comunidades proto-comunistas",
+    "desc": "Planteamiento"
+  },
+  "question5": {
+    "title": "Planteamiento",
+    "desc": "Planteamiento"
+  }
+}
