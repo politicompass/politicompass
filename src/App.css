@@ -54,6 +54,9 @@ button {
     color: var(--prim);
     text-align: left;
 }
+.btnOut input {
+    margin-right: 0.5rem;
+}
 .btnOut:hover {
     background: var(--light);
 }

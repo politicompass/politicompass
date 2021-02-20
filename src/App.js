@@ -62,7 +62,7 @@ function App() {
           <div className="container">
             <div className="card">
               <Switch>
-                <Route path={["/test", "/"]}>
+                <Route exact path={["/test", "/"]}>
                   <Home/>
                   <hr/>
                   <div className="flex">
