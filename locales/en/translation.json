@@ -1,0 +1,56 @@
+{
+  "title": "Real Political Compass",
+  "next": "Next",
+  "prev": "Prev",
+  "lang": "Language",
+  "start": "Sart",
+  "EN": "EN",
+  "ES": "ES",
+  "options": {
+    "a": "Agree",
+    "b": "Strongly agree",
+    "c": "Disagree",
+    "d": "Strongly disagree"
+  },
+  "optionsgag": {
+    "a": "Agree",
+    "b": "Strongly agree",
+    "c": "Meh",
+    "d": "Strongly meh"
+  },
+  "home": {
+    "title": "Before taking the test",
+    "desc": "Please note that this isn’t a survey, and these aren’t questions, they’re propositions. Your responses should not be overthought. Some of them are intentionally vague. Their purpose is to trigger reactions in the mind, measuring feelings and prejudices rather than detailed opinions on policy."
+  },
+  "question1": {
+    "title": "Power corrupts",
+    "desc": "Planteamiento"
+  },
+  "question2": {
+    "title": "Power corrupts",
+    "desc": "Planteamiento"
+  },
+  "question3": {
+    "title": "The police are the best way to end crime",
+    "desc": "Planteamiento"
+  },
+  "question3a": {
+    "title": "Are you sure about your answer?"
+  },
+  "question3a1": {
+    "title": "Are you a robot?"
+  },
+  "question3a11": {
+    "title": "Ha! i knew it, you neaky souless machine",
+    "desc": "Do you want to continue?"
+  },
+  "question4": {
+    "title": "Planteamiento",
+    "desc": "Planteamiento"
+  },
+  "question5": {
+    "title": "Planteamiento",
+    "desc": "Planteamiento"
+  }
+  
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/politicompass/static/css/main.c84e262e.chunk.css",
+    "main.js": "/politicompass/static/js/main.2564a0cf.chunk.js",
+    "main.js.map": "/politicompass/static/js/main.2564a0cf.chunk.js.map",
+    "runtime-main.js": "/politicompass/static/js/runtime-main.a79f8f4a.js",
+    "runtime-main.js.map": "/politicompass/static/js/runtime-main.a79f8f4a.js.map",
+    "static/js/2.ab613ffa.chunk.js": "/politicompass/static/js/2.ab613ffa.chunk.js",
+    "static/js/2.ab613ffa.chunk.js.map": "/politicompass/static/js/2.ab613ffa.chunk.js.map",
+    "static/js/3.35e187fd.chunk.js": "/politicompass/static/js/3.35e187fd.chunk.js",
+    "static/js/3.35e187fd.chunk.js.map": "/politicompass/static/js/3.35e187fd.chunk.js.map",
+    "index.html": "/politicompass/index.html",
+    "static/css/main.c84e262e.chunk.css.map": "/politicompass/static/css/main.c84e262e.chunk.css.map",
+    "static/js/2.ab613ffa.chunk.js.LICENSE.txt": "/politicompass/static/js/2.ab613ffa.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/politicompass/static/media/getFetch.d7d6010d.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a79f8f4a.js",
+    "static/js/2.ab613ffa.chunk.js",
+    "static/css/main.c84e262e.chunk.css",
+    "static/js/main.2564a0cf.chunk.js"
+  ]
+}
